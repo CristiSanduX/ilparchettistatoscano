@@ -1,0 +1,21 @@
+{
+    "home": {
+      "welcome": "Benvenuti su Il Parchettista Toscano",
+      "description": "Offriamo servizi professionali di posa parquet in tutta la Toscana."
+    },
+    "about": {
+      "title": "Chi Siamo",
+      "description": "Il Parchettista Toscano ha oltre 20 anni di esperienza nella posa e manutenzione di parquet di alta qualità."
+    },
+    "services": {
+      "title": "I Nostri Servizi",
+      "installation": "Posa Parquet",
+      "renovation": "Ristrutturazione Pavimenti",
+      "consulting": "Consulenza Personalizzata"
+    },
+    "contact": {
+      "title": "Contatti",
+      "description": "Contattaci per un preventivo gratuito o per maggiori informazioni."
+    }
+  }
+  

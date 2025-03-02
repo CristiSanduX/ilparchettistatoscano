@@ -1,0 +1,21 @@
+{
+    "home": {
+      "welcome": "Welcome to Il Parchettista Toscano",
+      "description": "We offer professional parquet installation services throughout Tuscany."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Il Parchettista Toscano has over 20 years of experience in high-quality parquet installation and maintenance."
+    },
+    "services": {
+      "title": "Our Services",
+      "installation": "Parquet Installation",
+      "renovation": "Floor Renovation",
+      "consulting": "Personalized Consulting"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Contact us for a free quote or more information."
+    }
+  }
+  
