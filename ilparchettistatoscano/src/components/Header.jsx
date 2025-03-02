@@ -9,7 +9,7 @@ function Header() {
   return (
     <header className="bg-white shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <div className="text-2xl font-bold text-gray-800">Il Parchettista Toscano</div>
+        <div className="text-2xl font-bold text-[#8B5E3C]">Il Parchettista Toscano</div>
         <nav className="space-x-6 hidden md:block">
           <Link to="/" className="hover:text-[#8B5E3C] font-medium">Home</Link>
           <Link to="/about" className="hover:text-[#8B5E3C] font-medium">Chi Siamo</Link>
