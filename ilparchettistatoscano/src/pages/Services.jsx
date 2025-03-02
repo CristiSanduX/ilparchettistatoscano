@@ -11,7 +11,7 @@ function Services() {
 
   return (
     <section className="py-12 bg-[#f8f8f8]">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4" data-aos="fade-up">
         <h2 className="text-3xl font-bold text-center text-[#8B5E3C] mb-8">{t('services.title')}</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {services.map(({ key, icon }) => (

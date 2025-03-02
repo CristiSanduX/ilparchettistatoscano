@@ -1,7 +1,8 @@
 {
     "home": {
       "welcome": "Bine ați venit pe Il Parchettista Toscano",
-      "description": "Oferim servicii profesionale de montaj parchet în toată Toscana."
+      "description": "Oferim servicii profesionale de montaj parchet în toată Toscana.",
+      "cta": "Contactează-ne acum"
     },
     "about": {
       "title": "Despre Noi",
@@ -10,12 +11,15 @@
     "services": {
       "title": "Serviciile Noastre",
       "installation": "Montaj Parchet",
+      "installation_desc": "Montăm parchet de cea mai bună calitate cu atenție la detalii.",
       "renovation": "Renovare Pardoseli",
-      "consulting": "Consultanță Personalizată"
+      "renovation_desc": "Redăm viață pardoselilor existente cu soluții moderne.",
+      "consulting": "Consultanță Personalizată",
+      "consulting_desc": "Oferim consultanță specializată pentru fiecare proiect."
     },
     "contact": {
       "title": "Contact",
-      "description": "Contactați-ne pentru o ofertă gratuită sau pentru mai multe informații."
+      "description": "Contactați-ne pentru o ofertă gratuită sau mai multe informații."
     }
   }
   

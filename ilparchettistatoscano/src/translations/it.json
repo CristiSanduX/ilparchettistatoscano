@@ -1,7 +1,8 @@
 {
     "home": {
       "welcome": "Benvenuti su Il Parchettista Toscano",
-      "description": "Offriamo servizi professionali di posa parquet in tutta la Toscana."
+      "description": "Offriamo servizi professionali di posa parquet in tutta la Toscana.",
+      "cta": "Contattaci ora"
     },
     "about": {
       "title": "Chi Siamo",
@@ -10,8 +11,11 @@
     "services": {
       "title": "I Nostri Servizi",
       "installation": "Posa Parquet",
+      "installation_desc": "Installiamo parquet di alta qualità con precisione e attenzione ai dettagli.",
       "renovation": "Ristrutturazione Pavimenti",
-      "consulting": "Consulenza Personalizzata"
+      "renovation_desc": "Ridiamo vita ai pavimenti esistenti con soluzioni moderne.",
+      "consulting": "Consulenza Personalizzata",
+      "consulting_desc": "Offriamo consigli specializzati per fiecare proiect."
     },
     "contact": {
       "title": "Contatti",
