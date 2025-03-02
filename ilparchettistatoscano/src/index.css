@@ -8,19 +8,3 @@ body {
     margin: 0;
     padding: 0;
 }
-
-header {
-    @apply bg-white shadow-md;
-}
-
-a {
-    @apply text-blue-600 hover:underline;
-}
-
-h1, h2, h3 {
-    @apply font-bold text-gray-800;
-}
-
-button {
-    @apply bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition;
-}
