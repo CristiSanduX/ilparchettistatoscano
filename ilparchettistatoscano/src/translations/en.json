@@ -20,6 +20,13 @@
     "contact": {
       "title": "Contact",
       "description": "Contact us for a free quote or more information."
-    }
+    },
+    "menu": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  }
   }
   

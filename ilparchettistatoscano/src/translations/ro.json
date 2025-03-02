@@ -20,6 +20,13 @@
     "contact": {
       "title": "Contact",
       "description": "Contactați-ne pentru o ofertă gratuită sau mai multe informații."
-    }
+    },
+    "menu": {
+    "home": "Acasă",
+    "about": "Despre Noi",
+    "services": "Servicii",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  }
   }
   

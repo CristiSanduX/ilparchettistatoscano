@@ -20,6 +20,13 @@
     "contact": {
       "title": "Contatti",
       "description": "Contattaci per un preventivo gratuito o per maggiori informazioni."
-    }
+    },
+    "menu": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "gallery": "Galleria",
+    "contact": "Contatti"
+  }
   }
   
