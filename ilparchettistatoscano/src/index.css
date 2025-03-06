@@ -14,9 +14,10 @@ a {
     @apply text-[#8B5E3C] hover:text-[#714c2e] transition;
 }
 
-button {
-    @apply bg-[#8B5E3C] text-white px-6 py-3 rounded-full hover:bg-[#714c2e] transition;
+.btn-primary {
+  @apply bg-[#8B5E3C] text-white px-6 py-3 rounded-full hover:bg-[#714c2e] transition;
 }
+
 
 section {
     @apply py-16;
