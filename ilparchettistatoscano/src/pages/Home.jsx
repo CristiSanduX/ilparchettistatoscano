@@ -1,4 +1,6 @@
 import { useTranslation } from 'react-i18next'
+import { Link } from 'react-router-dom'
+
 
 function Home() {
   const { t } = useTranslation()
@@ -26,13 +28,14 @@ function Home() {
           {t('home.description')}
         </p>
 
-        {/* Buton elegant */}
-        <a 
-          href="/contact" 
-          className="mt-6 inline-block text-lg font-semibold px-8 py-4 rounded-full bg-[#8B5E3C] text-white shadow-lg hover:bg-[#714c2e] hover:text-white transition-all duration-300 ease-out border border-transparent hover:border-white"
-        >
-          {t('home.cta')}
-        </a>
+
+<Link 
+  to="/contact"
+  className="mt-6 inline-block text-lg font-semibold px-8 py-4 rounded-full bg-[#8B5E3C] text-white shadow-lg hover:bg-[#714c2e] hover:text-white transition-all duration-300 ease-out border border-transparent hover:border-white"
+>
+  {t('home.cta')}
+</Link>
+
       </div>
     </section>
   )

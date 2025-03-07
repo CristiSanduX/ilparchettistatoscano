@@ -18,11 +18,13 @@ function Header() {
     <header className="bg-white shadow-md relative z-50">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         {/* Logo pe stânga */}
-        <div className="text-2xl font-bold text-[#8B5E3C]">Il Parchettista Toscano</div>
+        <div className="text-2xl font-bold text-[#8B5E3C] mr-20">
+  Il Parchettista Toscano di Boghian Dan
+</div>
 
         {/* Meniu centrat pe desktop */}
-        <nav className="hidden md:flex absolute left-1/2 transform -translate-x-1/2 space-x-6">
-          <CustomNavLink to="/" label={t('menu.home')} index={1} />
+        <nav className="hidden md:flex ml-10 space-x-8">
+        <CustomNavLink to="/" label={t('menu.home')} index={1} />
           <CustomNavLink to="/about" label={t('menu.about')} index={2} />
           <CustomNavLink to="/services" label={t('menu.services')} index={3} />
           <CustomNavLink to="/gallery" label={t('menu.gallery')} index={4} />
@@ -63,6 +65,7 @@ function Header() {
             <CustomNavLink to="/services" label={t('menu.services')} index={3} onClick={toggleMenu} />
             <CustomNavLink to="/gallery" label={t('menu.gallery')} index={4} onClick={toggleMenu} />
             <CustomNavLink to="/contact" label={t('menu.contact')} index={5} onClick={toggleMenu} />
+            
 
             {/* Steaguri în meniu mobil */}
             <div className="flex justify-center space-x-4 pt-4">

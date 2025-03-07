@@ -10,7 +10,7 @@ function Contact() {
         <p className="text-center text-gray-600 max-w-2xl mx-auto mb-12">{t('contact.description')}</p>
 
         <div className="text-center space-y-4">
-          <p className="text-lg">📱  +39 329 847 76668</p>
+          <p className="text-lg">📱  +39 329 847 6668</p>
           <p className="text-lg">📧 contact@ilparchettistatoscano.com</p>
         </div>
 
