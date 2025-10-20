@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="firenzeSigillo3" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d1d5db" />
+      <stop offset="100%" stop-color="#4b5563" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#firenzeSigillo3)" />
+  <text x="50%" y="45%" text-anchor="middle" font-size="48" fill="#111827" font-family="'Segoe UI', sans-serif">Firenze</text>
+  <text x="50%" y="58%" text-anchor="middle" font-size="32" fill="#1f2937" font-family="'Segoe UI', sans-serif">Finitura</text>
+  <text x="50%" y="74%" text-anchor="middle" font-size="24" fill="#374151" font-family="'Segoe UI', sans-serif">Foto 3</text>
+</svg>

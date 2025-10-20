@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="livornoMontenero3" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#bfdbfe" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#livornoMontenero3)" />
+  <text x="50%" y="45%" text-anchor="middle" font-size="48" fill="#1e3a8a" font-family="'Segoe UI', sans-serif">Livorno</text>
+  <text x="50%" y="58%" text-anchor="middle" font-size="32" fill="#1d4ed8" font-family="'Segoe UI', sans-serif">Battiscopa</text>
+  <text x="50%" y="74%" text-anchor="middle" font-size="24" fill="#1e40af" font-family="'Segoe UI', sans-serif">Foto 3</text>
+</svg>

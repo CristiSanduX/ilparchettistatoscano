@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="sienaSpina3" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fecaca" />
+      <stop offset="100%" stop-color="#ef4444" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sienaSpina3)" />
+  <text x="50%" y="45%" text-anchor="middle" font-size="48" fill="#7f1d1d" font-family="'Segoe UI', sans-serif">Siena</text>
+  <text x="50%" y="58%" text-anchor="middle" font-size="32" fill="#dc2626" font-family="'Segoe UI', sans-serif">Ambiente finito</text>
+  <text x="50%" y="74%" text-anchor="middle" font-size="24" fill="#991b1b" font-family="'Segoe UI', sans-serif">Foto 3</text>
+</svg>

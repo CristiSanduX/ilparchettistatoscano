@@ -1,3 +1,5 @@
+import { useCallback, useEffect, useState } from 'react'
+
 function Gallery() {
   const galleryItems = [
     {

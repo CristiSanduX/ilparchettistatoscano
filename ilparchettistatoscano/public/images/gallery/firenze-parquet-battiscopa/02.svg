@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="firenzeParquet2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fce7f3" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#firenzeParquet2)" />
+  <text x="50%" y="45%" text-anchor="middle" font-size="48" fill="#831843" font-family="'Segoe UI', sans-serif">Firenze</text>
+  <text x="50%" y="58%" text-anchor="middle" font-size="32" fill="#be185d" font-family="'Segoe UI', sans-serif">Montaggio</text>
+  <text x="50%" y="74%" text-anchor="middle" font-size="24" fill="#9d174d" font-family="'Segoe UI', sans-serif">Foto 2</text>
+</svg>
