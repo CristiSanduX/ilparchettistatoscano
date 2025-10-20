@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="empoliPVC3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ddd6fe" />
+      <stop offset="100%" stop-color="#c7d2fe" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#empoliPVC3)" />
+  <text x="50%" y="45%" text-anchor="middle" font-size="48" fill="#1e1b4b" font-family="'Segoe UI', sans-serif">Empoli</text>
+  <text x="50%" y="58%" text-anchor="middle" font-size="32" fill="#3730a3" font-family="'Segoe UI', sans-serif">PVC finito</text>
+  <text x="50%" y="74%" text-anchor="middle" font-size="24" fill="#312e81" font-family="'Segoe UI', sans-serif">Foto 3</text>
+</svg>
